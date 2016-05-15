@@ -1,8 +1,8 @@
 An Introduction
 ===============
 
-This template is designed to support all of the formatting and typesetting needed for a Plan of Concentration at Marlboro College.
-This package provides all of the necessary components to use this template. For contributions, comments, and bug reports, please contact Jay Sayre at jsayre at marlboro edu.
+This template is designed to support all of the formatting and typesetting needed for a nice looking thesis.
+This package provides all of the necessary components to use this template. For contributions, comments, and bug reports, please contact me.
 This homework template is based on the Harvard thesis template by [Jordan Suchow.](https://github.com/suchow/LaTeX-template-for-Harvard-dissertation) 
 
 Installation
