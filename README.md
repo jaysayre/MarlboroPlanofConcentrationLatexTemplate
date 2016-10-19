@@ -2,7 +2,7 @@ An Introduction
 ===============
 
 This template is designed to support all of the formatting and typesetting needed for a nice looking thesis.
-This package provides all of the necessary components to use this template. For contributions, comments, and bug reports, please contact me.
+This package provides all of the necessary components to use this template. For contributions, comments, and bug reports, please contact me (my email can be found at [my website](http://www.jaysayre.com)).
 This homework template is based on the Harvard thesis template by [Jordan Suchow.](https://github.com/suchow/LaTeX-template-for-Harvard-dissertation) 
 
 Installation
